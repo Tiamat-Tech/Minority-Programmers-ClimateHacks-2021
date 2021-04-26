@@ -11,7 +11,7 @@
 
 </div>
 
-![](**https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.41.31%20AM.png**)
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.41.31%20AM.png)
 
 ------
 ## Inspiration
