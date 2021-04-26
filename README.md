@@ -11,6 +11,7 @@
 
 </div>
 
+![](**https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.41.31%20AM.png**)
 
 ------
 ## Inspiration
@@ -28,13 +29,17 @@ Climate change will reduce agricultural productivity by 17% making it critical t
 
 Leverage digital technology artificial intelligence innovations applied in agriculture. Improve agricultural supply chains to be more climate resilient and connect producers to market distributors via an online Plant Predict web/mobile interface. Precision agriculture using remote soil sensors with Arduino bluetooth setup to create an asset tracking system that collects data on precipitation, chlorophyll, radiation, reflectance, temperature, and humidity. 
 
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.42.03%20AM.png)
+
 Tensorflow.js computer vision powered supply chains so stakeholders can efficiently manage resources. This will help with increasing food yields, reducing water use, and decreasing global green house gas emissions. Crop prediction and image classification will be used to make recommendations for the farmers. 
 We will consider crop-rotation, reducing monoculture and increasing self-sufficient crops like sugar, Irish potatoes, sweet potatoes, sunflower oil, and fast-moving consumer goods. This will help with climate-resilient agricultural food chains.
 
-* Healthy plant growth for tomatoes, apples, and grape crops
-* Aerial images of crop field patterns based on longitude and latitude 
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.42.33%20AM.png)
 
 Machine learning models used to inform local and national government decisions with food and agriculture, help individuals calculate their risks and carbon footprint, and estimate potential impacts of land-based carbon sequestration like regenerative agriculture. Much of these advances stem from the availability of farm data like farm boundaries and crop pest detection.
+
+* Healthy plant growth for tomatoes, apples, and grape crops
+* Aerial images of crop field patterns based on longitude and latitude 
 
 Data-driven supply chain optimization. By analyzing the sources of  GHG emissions in food supply chains, we can identify opportunities to directly reduce  operational costs. Managing supply chain GHG emissions effectively can mitigate the risk of damage to brand value, reduce exposure to energy price volatility and other cost increases, and enhance supply chain resilience. Suppliers provide data with each step logged into a database with RFID tagging on GHG emissions - this helps mitigate the risk of global supply chain disruptions and helps increase supply chain climate-resiliency.
 
@@ -48,6 +53,8 @@ Data-driven supply chain optimization. By analyzing the sources of  GHG emission
 ## How we built it 
 * Software built with Tensorflow.js and Angular.js
 * Hardware built with Arudino, Soil Sensors, and RFID tags
+
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.42.18%20AM.png)
 
 ------
 
