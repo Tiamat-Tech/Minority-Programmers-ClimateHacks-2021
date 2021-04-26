@@ -2,7 +2,6 @@
 
 **Fighting climate change with AI-powered supply chains** 
 
-------
 <div>
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
