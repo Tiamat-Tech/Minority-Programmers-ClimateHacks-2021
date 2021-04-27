@@ -17,6 +17,9 @@
 ## Inspiration
 Climate change is one of the greatest challenges of our time, with widespread implications for society. Already, we have seen an increase in the frequency and intensity of fires, droughts, floods, storms, and other extreme events, and global food systems and ecosystems have come under threat. Compounding this problem, the most severe impacts of climate change are likely to be felt by the world’s most disadvantaged populations. As a result, it is critical that society take strong action within the next few decades to both reduce greenhouse gas emissions and adapt to the consequences of a changing climate with technology.
 
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.42.03%20AM.png)
+
+
 Climate change will reduce agricultural productivity by 17% making it critical to build climate-resilient food supply chains. We know from research that climate change threatens food security through its direct effects on crop production, as well as changes in markets and food prices. The risk to the livelihood and food security of many more smallholder farmers is set to increase. Rising temperatures have caused precipitation patterns to change, crops to reach the upper limits of heat tolerance, farmers to spend more time in search of water supplies. In developing countries, 65% of working adults depend on agriculture for their income. Plant Predict measures crop growth with computer vision models optimizing for supply chain efficiency. 
 
 *  70% of freshwater withdrawals from agriculture 
@@ -29,7 +32,7 @@ Climate change will reduce agricultural productivity by 17% making it critical t
 
 Leverage digital technology artificial intelligence innovations applied in agriculture. Improve agricultural supply chains to be more climate resilient and connect producers to market distributors via an online Plant Predict web/mobile interface. Precision agriculture using remote soil sensors with Arduino bluetooth setup to create an asset tracking system that collects data on precipitation, chlorophyll, radiation, reflectance, temperature, and humidity. 
 
-![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-26%20at%202.42.03%20AM.png)
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-27%20at%201.15.18%20PM.png)
 
 Tensorflow.js computer vision powered supply chains so stakeholders can efficiently manage resources. This will help with increasing food yields, reducing water use, and decreasing global green house gas emissions. Crop prediction and image classification will be used to make recommendations for the farmers. 
 We will consider crop-rotation, reducing monoculture and increasing self-sufficient crops like sugar, Irish potatoes, sweet potatoes, sunflower oil, and fast-moving consumer goods. This will help with climate-resilient agricultural food chains.
