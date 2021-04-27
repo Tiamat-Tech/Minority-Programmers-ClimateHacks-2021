@@ -1,6 +1,6 @@
 # PLANT PREDICT
 
-**Computer vision powered supply chain optimization so stakeholders can efficiently manage resources** 
+**Computer vision powered supply chain optimization so stakeholders can efficiently manage resources https://www.youtube.com/watch?v=ADYi9_tzayA&t=1s** 
 
 <div>
   
