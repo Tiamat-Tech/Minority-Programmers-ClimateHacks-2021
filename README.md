@@ -32,7 +32,7 @@ Climate change will reduce agricultural productivity by 17% making it critical t
 
 Leverage digital technology artificial intelligence innovations applied in agriculture. Improve agricultural supply chains to be more climate resilient and connect producers to market distributors via an online Plant Predict web/mobile interface. Precision agriculture using remote soil sensors with Arduino bluetooth setup to create an asset tracking system that collects data on precipitation, chlorophyll, radiation, reflectance, temperature, and humidity. 
 
-![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-27%20at%201.15.18%20PM.png)
+![](https://github.com/lucylow/Minority-Programmers-ClimateHacks-2021/blob/main/images/Screen%20Shot%202021-04-27%20at%201.20.58%20PM.png)
 
 Tensorflow.js computer vision powered supply chains so stakeholders can efficiently manage resources. This will help with increasing food yields, reducing water use, and decreasing global green house gas emissions. Crop prediction and image classification will be used to make recommendations for the farmers. 
 We will consider crop-rotation, reducing monoculture and increasing self-sufficient crops like sugar, Irish potatoes, sweet potatoes, sunflower oil, and fast-moving consumer goods. This will help with climate-resilient agricultural food chains.
